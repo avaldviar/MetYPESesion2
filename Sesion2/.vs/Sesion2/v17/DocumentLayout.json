@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gemel\\Desktop\\MetyProgEstrucG3\\C#Uam\\Sesion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAB3241-9127-4752-B528-96F8ABF12A96}|Sesion2\\Sesion2.csproj|c:\\users\\gemel\\desktop\\metyprogestrucg3\\c#uam\\sesion2\\sesion2\\clases\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAB3241-9127-4752-B528-96F8ABF12A96}|Sesion2\\Sesion2.csproj|solutionrelative:sesion2\\clases\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAB3241-9127-4752-B528-96F8ABF12A96}|Sesion2\\Sesion2.csproj|c:\\users\\gemel\\desktop\\metyprogestrucg3\\c#uam\\sesion2\\sesion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAB3241-9127-4752-B528-96F8ABF12A96}|Sesion2\\Sesion2.csproj|solutionrelative:sesion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personas.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\MetyProgEstrucG3\\C#Uam\\Sesion2\\Sesion2\\clases\\Personas.cs",
+              "RelativeDocumentMoniker": "Sesion2\\clases\\Personas.cs",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\MetyProgEstrucG3\\C#Uam\\Sesion2\\Sesion2\\clases\\Personas.cs",
+              "RelativeToolTip": "Sesion2\\clases\\Personas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:31:34.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\MetyProgEstrucG3\\C#Uam\\Sesion2\\Sesion2\\Program.cs",
+              "RelativeDocumentMoniker": "Sesion2\\Program.cs",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\MetyProgEstrucG3\\C#Uam\\Sesion2\\Sesion2\\Program.cs",
+              "RelativeToolTip": "Sesion2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:27:07.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
